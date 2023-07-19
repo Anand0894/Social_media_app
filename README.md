@@ -1,7 +1,7 @@
 
 ### Social_media_app
 
-##Overview
+## Overview
 
 Created a static clone of the Social media app User Interface using ReactJS.
 Implemented HTML and CSS ideas to achieve the desired UI.
